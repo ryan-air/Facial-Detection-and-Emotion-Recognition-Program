@@ -1,4 +1,6 @@
 # Facial-Detection-and-Emotion-Recognition-Program
+Professional work-related project
+
 Use of deep learning techniques to detect faces and recognise their emotions in real time. 
 
 You can create your own model using the modelCreation.py file.
